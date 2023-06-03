@@ -43,6 +43,15 @@ This Java application was created using NetBeans IDE. It contains 4 different cl
 
 ![Quiz](https://github.com/alphapie77/Quiz-Application/assets/122679080/2f890351-e2d0-4ac0-92dc-5a84831e1bb7)
 
+## 50-50 Lifeline
+
+![50-50](https://github.com/alphapie77/Quiz-Application/assets/122679080/68a380ee-ca9c-455e-aa7f-3a65b73c2f13)
+
+## Submit
+
+![submit](https://github.com/alphapie77/Quiz-Application/assets/122679080/c98c8aca-8d88-4776-80bc-fb30d7bd98f6)
+
+
 ## Score
 
 ![Score](https://github.com/alphapie77/Quiz-Application/assets/122679080/ac953e14-0811-4583-ae40-9dffb541e6d8)
