@@ -4,7 +4,7 @@
 
 This is a GUI made using Java Swing and AWT. It lets User perform multiple operations like:-
 
-(1) start a Quiz: The user can start a new quiz by entering their name only.
+(1) Start a Quiz: The user can start a new quiz by entering their name only.
 
 (2) Answer a Question: The user can provide answers to the questions displayed on the screen.
 
